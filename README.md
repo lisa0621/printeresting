@@ -2,4 +2,4 @@
 
 This is the pinteresting sample app for One Month Rails
 
-by SHA-PAI LI
+by SHA-PAI LI 
